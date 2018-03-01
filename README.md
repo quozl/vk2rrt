@@ -35,7 +35,7 @@
 * should have had a designed life of 18 years at room temperature,
 * but designed life vs temperature graph in datasheet shows 50&deg;C derating to about 7.5 years,
 
-![](images/ng2-200-designed-life-vs-temperature.png "Designed life vs Temperature")
+![Designed Life vs Temperature](images/ng2-200-designed-life-vs-temperature.png)
 
 * so they have lasted longer than they should have,
 
