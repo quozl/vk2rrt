@@ -20,7 +20,7 @@
 * 2012 [network diagram](net-diagram.pdf), by Scott VK2UBQ,
 * 2013-06-22 work party, by Noel VK2ENA, Bob, Peter, Josh VK2FAXE, James VK2LQZ, and Petria VK2FERE, see [report](2013-06-22-work-party.pdf),
 * 2017 work party, Peter VK2BXQ, Noel VK2ENA, battery failure, see [photo #1](images/1.jpg), [photo #2](images/2.jpg),
-* 2018-03 [power design review](POWER.md).
+* 2018-03 [power design review](POWER.md), failure analysis, cost estimates,
 
 ## Failure Analysis
 
@@ -28,11 +28,10 @@
 > and .6 volts on a 3 amp load so they are dead.
 
 * cells are Neuton Power 2V 200AH supplied by YHI Power,
-
-* is listed at [YHI Power](http://yhipower.com.au/),
-* is in their [option brochure](http://yhipower.com.au/data/neutonpower/Neuton%20Power%20Solar%20Battery%20Options.pdf),
-* has a [datasheet](http://www.yhipower.com.au/data/neutonpower/ng/NG2-200.pdf),
-* should have had a 6000+ cycle life at 20 %DoD,
+* are listed at [YHI Power](http://yhipower.com.au/),
+* are in their [option brochure](http://yhipower.com.au/data/neutonpower/Neuton%20Power%20Solar%20Battery%20Options.pdf),
+* have a [datasheet](http://www.yhipower.com.au/data/neutonpower/ng/NG2-200.pdf),
+* should have had a 6000+ cycle life at 20% DoD,
 * should have had a designed life of 18 years at room temperature,
 * but designed life vs temperature graph in datasheet shows 50&deg;C derating to about 7.5 years,
 
