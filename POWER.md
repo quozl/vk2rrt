@@ -1,7 +1,7 @@
 # Draft Power Budget for VK2RRT
 
 by James Cameron VK2LQZ<br>
-27th February 2018
+1st March 2018
 
 
 ## Equipment Measurements
@@ -19,7 +19,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 ## Generation Estimates
 
 * assume nominal five hours insolation,
-* total 900 WH per day,
+* total 900 WH per day, (180 &times; 5),
 
 ## Consumption Estimates
 
@@ -40,9 +40,14 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * $289 each,
     * Maximum temperature 40&deg;C,
     * Weight 31 kg,
+
+  calculations and review by James VK2LQZ,
+
     * Usable capacity at 10% DoD; 13 AH, 179 WH per day, 5 years, (not specified by retailer),
+    * Battery life will be reduced by 50% due to temperature,
     * Emergency capacity 130 AH, 1794 WH, or seven days with solar array down,
-    * Battery life will be two years if emergency capacity is ever used,
+    * Battery life will be reduced by 90% if emergency capacity is ever used,
+    * Meets requirements, but will have a short life due to temperature.
     * Add another battery to guarantee overcast operation; in parallel, $578, 358 WH at 10% DoD, 3588 WH, or 14 days with solar array down,
 
 * [EPSOLAR Tracer4215BN MPPT charge controller](http://www.epsolarpv.com/en/index.php/Product/pro_content/id/573/am_id/136) (epsolarpv.com)
@@ -54,11 +59,19 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Maximum charge current 40 A,
     * Low voltage cutoff 11.1 V,
     * Low voltage reconnect 12.6 V,
+
+  calculations and review by James VK2LQZ,
+
     * Charge current at 180 W input with battery at 11.1 V; 16 A,
+    * Meets requirements,
 
 * Solar panel
 
     * Connected in series with existing panels,
+
+  calculations and review by James VK2LQZ,
+
+    * Is not required, there is three times the power now,
 
 ## Purchases recommended by James VK2LQZ
 
@@ -68,11 +81,15 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Maximum temperature 50&deg;C,
     * Minimum temperature -20&deg;C,
     * Weight 3kg,
+    * Maximum charge current 20A, (limited by embedded battery management system),
+    * [Datasheet](https://www.rpc.com.au/pdf/sentry_12V20S_datasheet.pdf),
+
+  calculations,
+
     * Usable capacity at 100% DoD; 20AH, 276 WH per day, 5.5 years,
     * Emergency capacity same, or one day,
-    * Maximum charge current 20A, (limited by embedded battery management system),
+    * Meets requirements,
     * Use Sentry 40AH 12V for greater emergency capacity, $645,
-    * [Datasheet](https://www.rpc.com.au/pdf/sentry_12V20S_datasheet.pdf),
 
 * Solar panel
 
@@ -87,14 +104,17 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Maximum charge current 15 A,
     * Low voltage cutoff 11.1 V,
     * Low voltage reconnect 13.1 V,
-    * Charge current at 180 W input with battery at 11.1 V; 15 A;
     * [Datasheet](https://www.rpc.com.au/pdf/victron_SmartSolar_MPPT_75-100_10-20_datasheet.pdf).
+
+  calculations,
+
+    * Charge current at 180 W input with battery at 11.1 V; 15 A;
 
 ## Risks
 
-* panels may have been damaged, suggested by David VK2AYO; panel output should be checked, adding series panel will not help,
-* additional series panels of different power won't be tracked properly by the MPPT control algorithm, suggested by James VK2LQZ,
-* cable length of 35m does not seem right, trench was much shorter, suggested by Petria VK2FERE,
+* panels may have been damaged, suggested by David VK2AYO; panel output should be checked, adding series panels will not help if one of the panels is damaged,
+* adding series panels of different power won't be tracked properly by the MPPT control algorithm, suggested by James VK2LQZ,
+* cable length of 35m does not seem right, trench was much shorter, suggested by Petria VK2FERE, see photograph,
 * temperature can exceed 40&deg;C in shed; previous battery had enough thermal mass to avoid damage, but a small-celled AGM battery may not escape this.
 
 ----

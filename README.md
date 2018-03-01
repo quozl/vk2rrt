@@ -19,7 +19,8 @@
 * 2011-09-26 decommissioning of 70cm link due to relocation of VK2RCD, in turn due to Department of Crown Lands seeking rent and requiring terms and conditions unsustainable for the club,
 * 2012 [network diagram](net-diagram.pdf), by Scott VK2UBQ,
 * 2013-06-22 work party, by Noel VK2ENA, Bob, Peter, Josh VK2FAXE, James VK2LQZ, and Petria VK2FERE, see [report](2013-06-22-work-party.pdf),
-* 2017 work party, Peter VK2BXQ, Noel VK2ENA, battery failure, see [photo #1](images/1.jpg), [photo #2](images/2.jpg).
+* 2017 work party, Peter VK2BXQ, Noel VK2ENA, battery failure, see [photo #1](images/1.jpg), [photo #2](images/2.jpg),
+* 2018-03 [power design review](POWER.md).
 
 ## Diagram
 
