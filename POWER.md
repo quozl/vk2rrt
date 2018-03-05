@@ -44,7 +44,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
   calculations and review by James VK2LQZ,
 
     * Usable capacity at 10% DoD; 13 AH, 179 WH per day, 5 years, (not specified by retailer),
-    * Battery life will be reduced by 50% due to temperature,
+    * Battery life will be reduced by up to 50% due to temperature,
     * Emergency capacity 130 AH, 1794 WH, or seven days with solar array down,
     * Battery life will be reduced by 90% if emergency capacity is ever used,
     * Meets requirements, but will have a short life due to temperature.
@@ -68,6 +68,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 * Solar panel
 
     * Connected in series with existing panels,
+    * Exceeds requirements,
 
   calculations and review by James VK2LQZ,
 

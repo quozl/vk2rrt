@@ -7,6 +7,9 @@
 
 ## History
 
+A limited history of the repeated based on what I've been told or was involved in.
+
+* Albert club handed repeater over to Dubbo club on the understanding that the incorporated Dubbo club would invoice another radio network owner at the site,
 * 2006 application to Wireless Institude of Australia (WIA), for [equipment grant](2006-grant-equipment.pdf), total $1000, managed by Brett VK2CBD, linked VK2RRT with VK2RCD and VK2RCC,
 * 2007 Australian Amateur Radio Truck Driver's Club funded internet relay linking project, USD $170, proposed by Indy VK2XB,
 * 2008-08-09 YHI Power - Neuton Gel 2V 200AH x 6 Batteries $1135.20,
@@ -24,11 +27,15 @@
 
 ## Failure Analysis
 
-> One of the batteries had a crack in the top of it and yes 1.6 volts on charge
-> and .6 volts on a 3 amp load so they are dead.
+* before 2013, repeater audio distorted in low sun or after sunset,
+* as of 2013, during charge pack voltage was 12.3 to 12.5 V, at lunch on a sunny day,
+* as of 2017, one cell cracked, during charge voltage one cell was 1.6 V, discharge on 3 A load was 0.6 V,
+* possibly a cell failed early, leading to gas release,
+
+* shed has an air vent,
 
 * cells are Neuton Power 2V 200AH supplied by YHI Power,
-* are listed at [YHI Power](http://yhipower.com.au/),
+* are listed at [YHI Power](http://yhipower.com.au/product-1.4.3.html),
 * are in their [option brochure](http://yhipower.com.au/data/neutonpower/Neuton%20Power%20Solar%20Battery%20Options.pdf),
 * have a [datasheet](http://www.yhipower.com.au/data/neutonpower/ng/NG2-200.pdf),
 * should have had a 6000+ cycle life at 20% DoD,
@@ -37,7 +44,7 @@
 
 ![Designed Life vs Temperature](images/ng2-200-designed-life-vs-temperature.png)
 
-* so they have lasted longer than they should have,
+* so they have also lasted longer than they should have,
 
 * while we could replace one cell, the remaining cells have exceeded their designed life, will fail quickly, and would have to be replaced as well,
 
