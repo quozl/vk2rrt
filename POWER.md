@@ -94,7 +94,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
 * Solar panel
 
-    * not required; power budget is fantastic with UHF link disconnected.
+    * not required; power budget is sufficient with UHF link disconnected.
 
 * [Victron SmartSolar MPPT Regulator 75/15](https://www.rpc.com.au/catalog/victron-smartsolar-mppt-regulator-75v-15a-p-4624.html) (rpc.com.au)
 
