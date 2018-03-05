@@ -1,7 +1,7 @@
 # Draft Power Budget for VK2RRT
 
 by James Cameron VK2LQZ<br>
-1st March 2018
+6th March 2018
 
 
 ## Equipment Measurements
