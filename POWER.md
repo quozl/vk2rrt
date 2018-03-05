@@ -76,21 +76,20 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
 ## Purchases recommended by James VK2LQZ
 
-* [Sentry 20AH 12V](https://www.rpc.com.au/catalog/sentry-lithium-battery-20ah-12v-p-4586.html) (rpc.com.au)
+* [Sentry 40AH 12V](https://www.rpc.com.au/catalog/sentry-lithium-battery-40ah-12v-p-4588.html) (rpc.com.au)
 
-    * $365,
+    * $645,
     * Maximum temperature 50&deg;C,
     * Minimum temperature -20&deg;C,
-    * Weight 3kg,
-    * Maximum charge current 20A, (limited by embedded battery management system),
-    * [Datasheet](https://www.rpc.com.au/pdf/sentry_12V20S_datasheet.pdf),
+    * Weight 5.5kg,
+    * Maximum charge current 40A,
+    * [Datasheet](https://www.rpc.com.au/pdf/sentry_12V40S_datasheet.pdf),
 
   calculations,
 
-    * Usable capacity at 100% DoD; 20AH, 276 WH per day, 5.5 years,
-    * Emergency capacity same, or one day,
-    * Meets requirements,
-    * Use Sentry 40AH 12V for greater emergency capacity, $645,
+    * Usable capacity at 100% DoD; 40AH, 552 WH per day, 5.5 years,
+    * Emergency capacity same, or two days,
+    * Meets requirements.
 
 * Solar panel
 
