@@ -83,6 +83,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Minimum temperature -20&deg;C,
     * Weight 5.5kg,
     * Maximum charge current 40A,
+    * Contains a charge balancing battery management system,
     * [Datasheet](https://www.rpc.com.au/pdf/sentry_12V40S_datasheet.pdf),
 
   calculations,
