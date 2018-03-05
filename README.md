@@ -7,7 +7,7 @@
 
 ## History
 
-A limited history of the repeated based on what I've been told or was involved in.
+A limited history of the repeater based on what I've been told or was involved in.
 
 * Albert club handed repeater over to Dubbo club on the understanding that the incorporated Dubbo club would invoice another radio network owner at the site,
 * 2006 application to Wireless Institude of Australia (WIA), for [equipment grant](2006-grant-equipment.pdf), total $1000, managed by Brett VK2CBD, linked VK2RRT with VK2RCD and VK2RCC,
