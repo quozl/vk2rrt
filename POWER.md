@@ -64,8 +64,9 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Charge current at 180 W input with battery at 11.1 V; 16 A,
     * Meets requirements,
 
-* Solar panel
+* Solar panels
 
+    * Total of 400W,
     * Connected in series with existing panels,
     * Exceeds requirements,
 
