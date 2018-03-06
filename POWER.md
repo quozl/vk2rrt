@@ -37,18 +37,17 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 ## Purchases recommended by Peter VK2BXQ
 
 * [Giant 12V 130AH AGM Deep Cycle Battery](https://www.aussiebatteries.com.au/batteries/deep-cycle-agm/130ah-12v-agm-deep-cycle-battery) (aussiebatteries.com.au)
-    * $289 each,
+    * $289 each, quantity 3, total $867,
     * Maximum temperature 40&deg;C,
-    * Weight 31 kg,
+    * Weight 31 kg each,
 
   calculations and review by James VK2LQZ,
 
-    * Usable capacity at 10% DoD; 13 AH, 179 WH per day, 5 years, (not specified by retailer),
+    * Usable capacity at 10% DoD; 39 AH, 539 WH per day, 5 years, (not specified by retailer),
     * Battery life will be reduced by up to 50% due to temperature,
-    * Emergency capacity 130 AH, 1794 WH, or seven days with solar array down,
-    * Battery life will be reduced by 90% if emergency capacity is ever used,
+    * Emergency capacity 390 AH, 5382 WH, or 21 days with solar array down,
+    * Battery life will be reduced by up to 90% if emergency capacity is ever used,
     * Meets requirements, but will have a short life due to temperature.
-    * Add another battery to guarantee overcast operation; in parallel, $578, 358 WH at 10% DoD, 3588 WH, or 14 days with solar array down,
 
 * [EPSOLAR Tracer4215BN MPPT charge controller](http://www.epsolarpv.com/en/index.php/Product/pro_content/id/573/am_id/136) (epsolarpv.com)
 
