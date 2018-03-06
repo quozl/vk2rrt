@@ -1,7 +1,7 @@
 # Draft Power Budget for VK2RRT
 
 by James Cameron VK2LQZ<br>
-6th March 2018
+7th March 2018
 
 
 ## Equipment Measurements
@@ -96,10 +96,6 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Emergency capacity same, or two days,
     * Meets requirements.
 
-* Solar panel
-
-    * not required; power budget is sufficient with UHF link disconnected.
-
 * [Victron SmartSolar MPPT Regulator 75/15](https://www.rpc.com.au/catalog/victron-smartsolar-mppt-regulator-75v-15a-p-4624.html) (rpc.com.au)
 
     * $186,
@@ -117,8 +113,6 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
 ## Risks
 
-* panels may have been damaged, suggested by David VK2AYO; panel output should be checked, adding series panels will not help if one of the panels is damaged,
-* adding series panels of different power won't be tracked properly by the MPPT control algorithm, suggested by James VK2LQZ,
 * cable length of 35m does not seem right, trench was much shorter, suggested by Petria VK2FERE, see photograph,
 * temperature can exceed 40&deg;C in shed; previous battery had enough thermal mass to avoid damage, but a small-celled AGM battery may not escape this.
 
