@@ -73,6 +73,8 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
   calculations and review by James VK2LQZ,
 
     * Is not required, there is three times the power now,
+    * System will complete charging earlier in the day, lowering the peak battery temperature slightly,
+    * Panels will be idle most of the day.
 
 ## Purchases recommended by James VK2LQZ
 
