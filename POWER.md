@@ -34,10 +34,10 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 * generation during overcast is sufficient to meet consumption assuming at least 230 WH of battery storage,
 * generation on sunny days is more than three times consumption.
 
-## Purchases recommended by Peter VK2BXQ
+## Purchases recommended by Peter VK2BXQ and Brett VK2WWV,
 
 * [Giant 12V 130AH AGM Deep Cycle Battery](https://www.aussiebatteries.com.au/batteries/deep-cycle-agm/130ah-12v-agm-deep-cycle-battery) (aussiebatteries.com.au)
-    * $289 each, quantity 3, total $867,
+    * $289 each, quantity 3, quoted total $810,
     * Maximum temperature 40&deg;C,
     * Weight 31 kg each,
 
@@ -67,7 +67,9 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 * Solar panels
 
     * Total of 400W,
-    * Connected in series with existing panels,
+    * Adapt frame for different panels, completed,
+    * Fix frame to ground,
+    * Retire existing panels,
     * Exceeds requirements,
 
   calculations and review by James VK2LQZ,
