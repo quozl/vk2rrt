@@ -34,7 +34,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 * generation during overcast is sufficient to meet consumption assuming at least 230 WH of battery storage,
 * generation on sunny days is more than three times consumption.
 
-## Purchases recommended by Peter VK2BXQ and Brett VK2WWV,
+## Purchases recommended by Peter VK2BXQ and Brett VK2WWV
 
 * [Giant 12V 130AH AGM Deep Cycle Battery](https://www.aussiebatteries.com.au/batteries/deep-cycle-agm/130ah-12v-agm-deep-cycle-battery) (aussiebatteries.com.au)
     * $289 each, quantity 3, quoted total $810,
@@ -58,10 +58,16 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Maximum charge current 40 A,
     * Low voltage cutoff 11.1 V,
     * Low voltage reconnect 12.6 V,
+    * No maximum load current specification,
+    * Assumes 25&deg;C for voltage temperature compensation when sensor not used,
+    * [Datasheet](http://www.epsolarpv.com/en/uploads/news/201512/1449124059577504.pdf)
+    * [User Manual](http://www.epsolarpv.com/en/uploads/news/201710/1508813495487522.pdf)
 
   calculations and review by James VK2LQZ,
 
     * Charge current at 180 W input with battery at 11.1 V; 16 A,
+    * Battery life can be increased by temperature sensor option RTS300R47K3.81A,
+    * Battery life can be increased by low voltage cutoff and reconnect; requires configuring charger for manual load control, wiring repeater to load output, or for best transmit voltage wire a relay from the load output to the repeater controller,
     * Meets requirements,
 
 * Solar panels
