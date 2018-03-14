@@ -1,7 +1,7 @@
 # Draft Power Budget for VK2RRT
 
 by James Cameron VK2LQZ<br>
-7th March 2018
+13th March 2018
 
 
 ## Equipment Measurements
@@ -37,12 +37,14 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 ## Purchases recommended by Peter VK2BXQ and Brett VK2WWV
 
 * [Giant 12V 130AH AGM Deep Cycle Battery](https://www.aussiebatteries.com.au/batteries/deep-cycle-agm/130ah-12v-agm-deep-cycle-battery) (aussiebatteries.com.au)
-    * $289 each, quantity 3, quoted total $810,
+    * $270 each, quantity 3, quoted total $810,
     * Maximum temperature 40&deg;C,
     * Weight 31 kg each,
 
   calculations and review by James VK2LQZ,
 
+    * Wire size 6mm&squared;, 10AWG, for 40A maximum charge current,
+    * Fuses 40A, quantity 3, to protect wiring on cell short in one battery,
     * Usable capacity at 10% DoD; 39 AH, 539 WH per day, 5 years, (not specified by retailer),
     * Battery life will be reduced by up to 50% due to temperature,
     * Emergency capacity 390 AH, 5382 WH, or 21 days with solar array down,
@@ -54,7 +56,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
     * Already purchased as a donation by Peter,
     * Enclosure IP30,
     * Maximum temperature 55&deg;C,
-    * Maximum input power 520 W,
+    * Maximum input power 520 W (for a 12V nominal battery voltage),
     * Maximum charge current 40 A,
     * Low voltage cutoff 11.1 V,
     * Low voltage reconnect 12.6 V,
@@ -65,24 +67,29 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
   calculations and review by James VK2LQZ,
 
-    * Charge current at 180 W input with battery at 11.1 V; 16 A,
+    * Wire size 16mm&squared;, 6AWG, for 40A maximum charge current,
+    * Charge current at 520 W input with battery at 11.1 V; 40 A,
     * Battery life can be increased by temperature sensor option RTS300R47K3.81A,
     * Battery life can be increased by low voltage cutoff and reconnect; requires configuring charger for manual load control, wiring repeater to load output, or for best transmit voltage wire a relay from the load output to the repeater controller,
     * Meets requirements,
 
-* Solar panels
+* [Solar panels](http://www.lowenergydevelopments.com.au/solarpanels-poly-mono/solar-panels-upto-200w-morethan-100w/200-Watt-12v-Solar-Panel-Monocrystalline)
 
-    * Total of 400W,
+    * $147.50 each, quantity 3, total $442.50,
+    * Maximum power 200W per panel, total of 600W,
+    * Maximum open circuit voltage 22.0V, in series 66.0V,
+    * Maximum short circuit current 12.12A, in series 12.12A,
     * Adapt frame for different panels, completed,
     * Fix frame to ground,
     * Retire existing panels,
-    * Exceeds requirements,
 
   calculations and review by James VK2LQZ,
 
-    * Is not required, there is three times the power now,
-    * System will complete charging earlier in the day, lowering the peak battery temperature slightly,
-    * Panels will be idle most of the day.
+    * Wire size 6mm&squared;, 10AWG, for 20A maximum charge current,
+    * Panel total power exceeds maximum input power of charge controller, 600W vs 520W, but page 9 of charger manual says it will safely limit to the rated power,
+    * System will complete charging within about 23 minutes of full sun,
+    * Panels will be idle most of the day,
+    * Exceeds requirements,
 
 ## Purchases recommended by James VK2LQZ
 
