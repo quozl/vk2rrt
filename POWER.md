@@ -1,7 +1,7 @@
 # Draft Power Budget for VK2RRT
 
 by James Cameron VK2LQZ<br>
-13th March 2018
+14th March 2018
 
 
 ## Equipment Measurements
@@ -43,8 +43,9 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
   calculations and review by James VK2LQZ,
 
-    * Wire size 6mm&squared;, 10AWG, for 40A maximum charge current,
-    * Fuses 40A, quantity 3, to protect wiring on cell short in one battery,
+    * Wire size 6mm&sup2;, 10AWG, for 40A maximum charge current,
+    * Fuses &gt; 40A, e.g. 50A 5AG, quantity 2, between batteries,
+        * protect a battery from another battery on cell fault,
     * Usable capacity at 10% DoD; 39 AH, 539 WH per day, 5 years, (not specified by retailer),
     * Battery life will be reduced by up to 50% due to temperature,
     * Emergency capacity 390 AH, 5382 WH, or 21 days with solar array down,
@@ -67,7 +68,10 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
   calculations and review by James VK2LQZ,
 
-    * Wire size 16mm&squared;, 6AWG, for 40A maximum charge current,
+    * Wire size 16mm&sup2;, 6AWG, for 40A maximum charge current,
+    * Fuses &gt; 40A, e.g. 50A 5AG, quantity 1,
+        * protect cable during charging,
+        * protect cable on charger fault,
     * Charge current at 520 W input with battery at 11.1 V; 40 A,
     * Battery life can be increased by temperature sensor option RTS300R47K3.81A,
     * Battery life can be increased by low voltage cutoff and reconnect; requires configuring charger for manual load control, wiring repeater to load output, or for best transmit voltage wire a relay from the load output to the repeater controller,
@@ -85,7 +89,7 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
   calculations and review by James VK2LQZ,
 
-    * Wire size 6mm&squared;, 10AWG, for 20A maximum charge current,
+    * Wire size 6mm&sup2;, 10AWG, for 12.12A maximum short circuit current, or increase wire size for distance,
     * Panel total power exceeds maximum input power of charge controller, 600W vs 520W, but page 9 of charger manual says it will safely limit to the rated power,
     * System will complete charging within about 23 minutes of full sun,
     * Panels will be idle most of the day,
