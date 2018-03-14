@@ -43,13 +43,13 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
   calculations and review by James VK2LQZ,
 
-    * Wire size 6mm&sup2;, 10AWG, for 40A maximum charge current,
+    * Wire size 16mm&sup2;, 6AWG, for 40A maximum charge current, per [User Manual](http://www.epsolarpv.com/en/uploads/news/201710/1508813495487522.pdf),
     * Fuses &gt; 40A, e.g. 50A 5AG, quantity 2, between batteries,
         * protect a battery from another battery on cell fault,
     * Usable capacity at 10% DoD; 39 AH, 539 WH per day, 5 years, (not specified by retailer),
     * Battery life will be reduced by up to 50% due to temperature,
     * Emergency capacity 390 AH, 5382 WH, or 21 days with solar array down,
-    * Battery life will be reduced by up to 90% if emergency capacity is ever used,
+    * Battery life will be reduced by up to 90% if emergency capacity is ever used, or charge controller can disconnect loads before damage is done,
     * Meets requirements, but will have a short life due to temperature.
 
 * [EPSOLAR Tracer4215BN MPPT charge controller](http://www.epsolarpv.com/en/index.php/Product/pro_content/id/573/am_id/136) (epsolarpv.com)
@@ -68,13 +68,13 @@ Received by e-mail and telephone conversation with Peter VK2BXQ.
 
   calculations and review by James VK2LQZ,
 
-    * Wire size 16mm&sup2;, 6AWG, for 40A maximum charge current,
+    * Wire size 16mm&sup2;, 6AWG, for 40A maximum charge current, per [User Manual](http://www.epsolarpv.com/en/uploads/news/201710/1508813495487522.pdf),
     * Fuses &gt; 40A, e.g. 50A 5AG, quantity 1,
         * protect cable during charging,
         * protect cable on charger fault,
     * Charge current at 520 W input with battery at 11.1 V; 40 A,
     * Battery life can be increased by temperature sensor option RTS300R47K3.81A,
-    * Battery life can be increased by low voltage cutoff and reconnect; requires configuring charger for manual load control, wiring repeater to load output, or for best transmit voltage wire a relay from the load output to the repeater controller,
+    * Battery life can be increased by low voltage cutoff and reconnect; so that if solar panels are covered, the system shuts down before the batteries are destroyed; requires configuring charger for manual load control, wiring repeater to load output, or for best transmit voltage wire a relay from the load output to the repeater controller,
     * Meets requirements,
 
 * [Solar panels](http://www.lowenergydevelopments.com.au/solarpanels-poly-mono/solar-panels-upto-200w-morethan-100w/200-Watt-12v-Solar-Panel-Monocrystalline)
