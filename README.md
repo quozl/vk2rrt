@@ -29,12 +29,12 @@ A limited history of the repeater based on what I've been told or was involved i
 
 * before 2013, repeater audio distorted in low sun or after sunset,
 * as of 2013, during charge pack voltage was 12.3 to 12.5 V, at lunch on a sunny day,
+    * substantially lower than it should have been,
 * as of 2017, one cell cracked, during charge voltage one cell was 1.6 V, discharge on 3 A load was 0.6 V,
-* possibly a cell failed early, leading to gas release,
-
-* shed has an air vent,
-
-* cells are Neuton Power 2V 200AH supplied by YHI Power,
+* possibly a cell failed, leading to gas release, leading to lower cell voltage, leading to higher charge voltage for other cells, leading to entire pack damage,
+* shed has an air vent;
+    * so inside air temperature will follow outdoor temperature,
+* cells were Neuton Power 2V 200AH supplied by YHI Power,
 * are listed at [YHI Power](http://yhipower.com.au/product-1.4.3.html),
 * are in their [option brochure](http://yhipower.com.au/data/neutonpower/Neuton%20Power%20Solar%20Battery%20Options.pdf),
 * have a [datasheet](http://www.yhipower.com.au/data/neutonpower/ng/NG2-200.pdf),
@@ -45,7 +45,6 @@ A limited history of the repeater based on what I've been told or was involved i
 ![Designed Life vs Temperature](images/ng2-200-designed-life-vs-temperature.png)
 
 * so they have also lasted longer than they should have,
-
 * while we could replace one cell, the remaining cells have exceeded their designed life, will fail quickly, and would have to be replaced as well,
 
 ## Cost Recovery - Now
